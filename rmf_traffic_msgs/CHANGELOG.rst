@@ -26,6 +26,7 @@ Changelog for package rmf_traffic_msgs
 3.0.1 (2022-09-27)
 ------------------
 * Robust schedule failover (`#48 <https://github.com/open-rmf/rmf_internal_msgs/pull/48>`_)
+* Contributors: Grey
 
 2.0.0 (2022-03-18)
 ------------------
@@ -36,6 +37,7 @@ Changelog for package rmf_traffic_msgs
 ------------------
 * More efficient schedule updating: (`#22 <https://github.com/open-rmf/rmf_traffic/pull/22>`_), (`#23 <https://github.com/open-rmf/rmf_traffic/pull/23>`_), (`#24 <https://github.com/open-rmf/rmf_traffic/pull/24>`_)
 * Enable redundancy for traffic schedule node: (`#16 <https://github.com/open-rmf/rmf_traffic/pull/1>`_)
+* Contributors: Grey
 
 1.3.0 (2021-05-27)
 ------------------

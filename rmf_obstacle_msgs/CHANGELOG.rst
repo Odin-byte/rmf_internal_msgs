@@ -31,4 +31,5 @@ Changelog for package rmf_obstacle_msgs
 ------------------
 * Replace BoundingBox msgs from vision_msgs with internal variants (`#44 <https://github.com/open-rmf/rmf_internal_msgs/pull/44>`_)
 * Initial rmf_obstacle_msgs (`#42 <https://github.com/open-rmf/rmf_internal_msgs/pull/42>`_)
+* Contributors: Yadunund
 
