@@ -8,4 +8,5 @@ string target_guid
 
 # below are custom workcell message fields
 string transporter_type
+string transporter_id
 IngestorRequestItem[] items
